@@ -39,7 +39,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     "Sripath & Shanmuk",
     "Sid Ravi",
     "Sid Balaji",
-    "Aditiya",
+    "Aditya",
     "Nirmay",
     "Shrikar",
   ];
