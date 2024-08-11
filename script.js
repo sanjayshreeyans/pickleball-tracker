@@ -1,5 +1,5 @@
 document.addEventListener("DOMContentLoaded", () => {
-  const friends = ["Sanjay", "Ram", "Sripath & Shanmuk", "Sid Ravi", "Sid Balaji", "Aditiya"];
+  const friends = ["Sanjay", "Ram", "Sripath & Shanmuk", "Sid Ravi", "Sid Balaji", "Aditiya", "Nirmay"];
   const statuses = ["Coming", "Arrived", "Not Interested"];
 
   // Display the current date
